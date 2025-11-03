@@ -13,6 +13,7 @@
 ---
 
 ## 💻 Practice Queries
+
 ```sql
 SELECT * FROM patients;
 
@@ -21,7 +22,7 @@ FROM patients;
 
 SELECT * 
 FROM service_weekly 
-LIMIT 10;
+LIMIT 10;```
 
 ---
 
@@ -32,7 +33,7 @@ List all unique hospital services available in the hospital.
 
 ---
 
-##   💡 Thought Process
+## 💡 Thought Process
 
 We need to find all distinct services — meaning no duplicates should appear in the results.
 The column service (inside the table services_weekly) stores the hospital service names.
