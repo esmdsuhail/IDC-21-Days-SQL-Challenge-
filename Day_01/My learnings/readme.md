@@ -14,15 +14,15 @@
 
 ## 💻 Practice Queries
 
-```sql
-SELECT * FROM patients;```
+`sql
+SELECT * FROM patients;`
 
-```SELECT patient_id, name, age 
-FROM patients;```
+SELECT patient_id, name, age 
+FROM patients;
 
-```SELECT * 
+SELECT * 
 FROM service_weekly 
-LIMIT 10;```
+LIMIT 10;`
 
 ---
 
@@ -38,5 +38,5 @@ LIMIT 10;```
 -The column service (inside the table services_weekly) stores the hospital service names.
 -To remove duplicates, we use the DISTINCT keyword with the SELECT statement.
 
-``` DISTINCT service 
-FROM services_weekly;```
+`DISTINCT service 
+FROM services_weekly;`
