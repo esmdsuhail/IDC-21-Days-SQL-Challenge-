@@ -15,12 +15,12 @@
 ## 💻 Practice Queries
 
 ```sql
-SELECT * FROM patients;
+SELECT * FROM patients;```
 
-SELECT patient_id, name, age 
-FROM patients;
+```SELECT patient_id, name, age 
+FROM patients;```
 
-SELECT * 
+```SELECT * 
 FROM service_weekly 
 LIMIT 10;```
 
@@ -28,16 +28,15 @@ LIMIT 10;```
 
 ## 🎯 Challenge
 
-Question:
-List all unique hospital services available in the hospital.
+-Question: List all unique hospital services available in the hospital.
 
 ---
 
 ## 💡 Thought Process
 
-We need to find all distinct services — meaning no duplicates should appear in the results.
-The column service (inside the table services_weekly) stores the hospital service names.
-To remove duplicates, we use the DISTINCT keyword with the SELECT statement.
+-We need to find all distinct services — meaning no duplicates should appear in the results.
+-The column service (inside the table services_weekly) stores the hospital service names.
+-To remove duplicates, we use the DISTINCT keyword with the SELECT statement.
 
 ``` DISTINCT service 
 FROM services_weekly;```
