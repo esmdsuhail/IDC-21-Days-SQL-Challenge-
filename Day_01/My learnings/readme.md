@@ -15,7 +15,7 @@
 ## 💻 Practice Queries
 
 `sql
-SELECT * FROM patients;`
+SELECT * FROM patients;
 
 SELECT patient_id, name, age 
 FROM patients;
