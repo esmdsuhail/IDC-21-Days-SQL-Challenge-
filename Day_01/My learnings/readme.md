@@ -24,11 +24,14 @@ FROM service_weekly
 LIMIT 10;
 
 ---
+
 ## 🎯 Challenge
 
 Question:
 List all unique hospital services available in the hospital.
+
 ---
+
 ##   💡 Thought Process
 
 We need to find all distinct services — meaning no duplicates should appear in the results.
