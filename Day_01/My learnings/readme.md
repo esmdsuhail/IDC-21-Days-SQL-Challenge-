@@ -15,6 +15,7 @@
 ## 💻 Practice Queries
 
 -sql queries
+
 `SELECT * FROM patients;`
 
 `SELECT patient_id, name, age 
