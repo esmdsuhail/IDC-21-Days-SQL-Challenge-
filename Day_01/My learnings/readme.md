@@ -14,13 +14,13 @@
 
 ## 💻 Practice Queries
 
-`sql
-SELECT * FROM patients;
+-sql queries
+`SELECT * FROM patients;`
 
-SELECT patient_id, name, age 
-FROM patients;
+`SELECT patient_id, name, age 
+FROM patients;`
 
-SELECT * 
+`SELECT * 
 FROM service_weekly 
 LIMIT 10;`
 
