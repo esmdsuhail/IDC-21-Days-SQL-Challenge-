@@ -1,6 +1,6 @@
-#Day 1 – Introduction to SQL & SELECT Statement
+#Day 1 – Introduction to SQL & SELECT Statement#
 
-##📘 Topics Covered
+##📘 Topics Covered##
   Introduction to SQL and relational databases
   SELECT statement basics
   Viewing table data using SELECT *
@@ -8,7 +8,7 @@
   Using AS for column aliases
   Best practices: Avoid SELECT *, use comments, and limit rows
 
-##💻 Practice Queries
+##💻 Practice Queries##
   SELECT * FROM patients;
   SELECT patient_id, name, age FROM patients;
   SELECT * FROM service_weekly LIMIT 10;
@@ -17,11 +17,11 @@
   Question:
   List all unique hospital services available in the hospital.
 
-##💡 Thought Process
+##💡 Thought Process##
   We need to find all distinct services — meaning no duplicates should appear in the results.
   The column service (inside the table services_weekly) stores the hospital service names.
   To remove duplicates, we use the DISTINCT keyword with SELECT.
 
-##🧠 Challenge Query
+##🧠 Challenge Query##
   SELECT DISTINCT service 
   FROM services_weekly;
