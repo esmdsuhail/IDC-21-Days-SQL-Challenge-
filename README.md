@@ -6,3 +6,4 @@
 | Day | Topic                         | Folder        |
 |-----|-------------------------------|---------------|
 | 1   | Introduction to SQL & SELECT  | [Day_01](Day_01/) |
+| 2   | Filtering Data with WHERE Clause  | [Day_02](Day_02/) |
