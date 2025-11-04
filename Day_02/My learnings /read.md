@@ -31,6 +31,7 @@ where patients_request >'100';`
 ## 🎯 Challenge
 
 -Question: Find all patients admitted to the 'Surgery' service with a satisfaction score below 70, showing their patient_id, name, age, and satisfaction score.
+
 `select patient_id, name, age, satisfaction 
 from patients
 where service = 'surgery' and satisfaction < '70';` 
@@ -39,7 +40,7 @@ where service = 'surgery' and satisfaction < '70';`
 
 ## 💡 Thought Process
 
--We need to find rows only to match the criteria using operators.
--How to select the correct table to achieve the desired output in SQL.
--Required weekly analysis of the selected rows to extract the required insights
+- We need to find rows only to match the criteria using operators.
+- How to select the correct table to achieve the desired output in SQL.
+- Required weekly analysis of the selected rows to extract the required insights
 
