@@ -14,7 +14,7 @@
 
 ## 💻 Practice Queries
 
--sql queries
+- sql queries
 
 `select * from patients 
 where age > '60' ;`
@@ -30,7 +30,7 @@ where patients_request >'100';`
 
 ## 🎯 Challenge
 
--Question: Find all patients admitted to the 'Surgery' service with a satisfaction score below 70, showing their patient_id, name, age, and satisfaction score.
+- Question: Find all patients admitted to the 'Surgery' service with a satisfaction score below 70, showing their patient_id, name, age, and satisfaction score.
 
 `select patient_id, name, age, satisfaction 
 from patients
