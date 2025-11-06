@@ -15,12 +15,16 @@
 
 #### SQL queries Practice Questions:
 - 1. Display the first 5 patients from the patients table.
+
+ `select * from patients LIMIT 5;`
+
 - 2. Show patients 11-20 using OFFSET.
+
+`select * from patients limit 10 offset 10;`
+
 - 3. Get the 10 most recent patient admissions based on arrival_date.
 
-`select * from patients LIMIT 5;
- select * from patients limit 10 offset 10;
- select * from patients order by arrival_date desc limit 10 ;`
+ `select * from patients order by arrival_date desc limit 10 ;`
 
 ---
 
@@ -30,8 +34,12 @@
 
 ---
 
-- Query
-  `select patient_id, name as patient_name , service, satisfaction as satisfaction_score
+## Query
+  `select
+         patient_id,
+         name as patient_name,
+         service,
+         satisfaction as satisfaction_score
    from patients
    order by satisfaction desc
    limit 5 offset 2;`
