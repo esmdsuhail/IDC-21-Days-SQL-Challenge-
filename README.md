@@ -8,5 +8,6 @@
 | 1   | Introduction to SQL & SELECT  | [Day_01](Day_01/) |
 | 2   | Filtering Data with WHERE Clause  | [Day_02](Day_02/) |
 | 3   | Sorting Data with ORDER BY  | [Day_03](Day_03/) |
-| 4   |                                            | [Day_04](Day_0/) |
+| 4   | LIMIT, OFFSET, pagination concepts| [Day_04](Day_04/) |
+|     |                                  | [Day_05](Day_0/) |
 
