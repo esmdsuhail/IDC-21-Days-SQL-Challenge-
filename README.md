@@ -10,4 +10,8 @@
 |  3  | Sorting Data with ORDER BY    | [Day_03](Day_03/) |
 |  4  | LIMIT, OFFSET, pagination concepts| [Day_04](Day_04/) |
 |  5  | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)| [Day_05](Day_05/) |
-|     |                              | [Day_06](Day_0/) |
+|  6  | GROUP BY                      | [Day_06](Day_06/) |
+|  7  | HAVING clause                 | [Day_07](Day_07/) |
+|  8  | String Functions              | [Day_08](Day_08/) |
+|  9  | Date Functions                | [Day_09](Day_09/) |
+| 10  |                               | [Day_10](Day_0/) |
