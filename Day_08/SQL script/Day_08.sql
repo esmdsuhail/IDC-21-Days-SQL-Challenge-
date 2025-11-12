@@ -30,6 +30,7 @@ FROM staff;
 SELECT 
 	patient_id,
     UPPER(name) AS full_name,
+	LENGTH(name) AS name_length,
     LOWER(service) AS service,
     CASE
 		WHEN age >= 65 THEN 'Senior'
