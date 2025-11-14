@@ -15,4 +15,5 @@
 |  8  | String Functions              | [Day_08](Day_08/) |
 |  9  | Date Functions                | [Day_09](Day_09/) |
 | 10  | CASE Statements               | [Day_10](Day_10/) |
-| 10  |                               | [Day_11](Day_11/) |
+| 11  | DISTINCT and Handling Duplicates | [Day_11](Day_11/) |
+| 12  |  | [Day_12](Day_00/) |
