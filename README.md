@@ -16,4 +16,7 @@
 |  9  | Date Functions                | [Day_09](Day_09/) |
 | 10  | CASE Statements               | [Day_10](Day_10/) |
 | 11  | DISTINCT and Handling Duplicates | [Day_11](Day_11/) |
-| 12  |  | [Day_12](Day_00/) |
+| 12  | Conditional Logic (NULL Values and IS NULL/IS NOT NULL) | [Day_12](Day_12/) |
+| 13  | Combining Tables (INNER JOIN) | [Day_13](Day_13/) |
+| 14  | Combining Tables (LEFT JOIN AND RIGHT JOIN) | [Day_14](Day_14/) |
+| 15  |  | [Day_15](Day_00/) |
