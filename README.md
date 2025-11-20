@@ -20,4 +20,5 @@
 | 13  | Combining Tables (INNER JOIN) | [Day_13](Day_13/) |
 | 14  | Combining Tables (LEFT JOIN AND RIGHT JOIN) | [Day_14](Day_14/) |
 | 15  | Multiple Joins | [Day_15](Day_15/) |
-| 15  |  | [Day_16](Day_00/) |
+| 16  | Mini Project | [Day_16](MiniProject/) |
+| 17  |  | [Day_16](Day_00/) |
