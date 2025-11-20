@@ -19,4 +19,5 @@
 | 12  | Conditional Logic (NULL Values and IS NULL/IS NOT NULL) | [Day_12](Day_12/) |
 | 13  | Combining Tables (INNER JOIN) | [Day_13](Day_13/) |
 | 14  | Combining Tables (LEFT JOIN AND RIGHT JOIN) | [Day_14](Day_14/) |
-| 15  |  | [Day_15](Day_00/) |
+| 15  | Multiple Joins | [Day_15](Day_15/) |
+| 15  |  | [Day_16](Day_00/) |
