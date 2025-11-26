@@ -20,5 +20,11 @@
 | 13  | Combining Tables (INNER JOIN) | [Day_13](Day_13/) |
 | 14  | Combining Tables (LEFT JOIN AND RIGHT JOIN) | [Day_14](Day_14/) |
 | 15  | Multiple Joins | [Day_15](Day_15/) |
-| 16  | Mini Project | [Day_16](Mini Project/) |
-| 17  |  | [Day_16](Day_00/) |
+| --  | Mini Project | [Mini Project](Mini Project/) |
+| 16  | Subqueries (WHERE clause) | [Day_16](Day_16 |
+| 17  | Subqueries (SELECT and FROM clause) | [Day_17](Day_17/) |
+| 18  | UNION and UNION ALL | [Day_18](Day_18/) |
+| 19  | Window Functions - ROW_NUMBER, RANK, DENSE_RANK | [Day_19](Day_19/) |
+| 20  | Window Functions - Aggregate Window Functions | [Day_20](Day_20/) 
+| 21  | Common Table Expressions (CTEs) | [Day_21](Day_21/) |
+
